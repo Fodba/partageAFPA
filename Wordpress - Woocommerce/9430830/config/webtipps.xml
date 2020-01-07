@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<content>
+	<area area="left" header="Sur le web..." subheader="Suivez l'actualité de video2brain.">
+		<element type="link_teaser" link="http://blog.video2brain.com/fr/" previewimage="media/v2b_blog.png" header="Blog de video2brain" text="Sortie des formations, actualités de video2brain, évènements, sites informatiques utiles et pratiques, trucs et astuces, tutos écrits, nouveaux logiciels… Retrouvez tous ces thèmes et bien d’autres encore sur le blog de video2brain ! Nous attendons votre visite et vos commentaires !" />
+		<element type="link_teaser" link="http://www.video2brain.com/fr/newsletter.htm" previewimage="media/v2b_newsletter.png" header="La newsletter de video2brain" text="Tenez-vous au courant des nouveautés et abonnez-vous gratuitement à notre newsletter ! Avec la newsletter de video2brain, vous recevrez des informations actuelles concernant les nouvelles formations vidéo, ainsi que des codes promo. L'annonce de nouveaux produits se fait à intervalles réguliers." />
+		<element type="link_teaser" link="https://www.video2brain.com/fr/formations-a-venir" previewimage="media/master_vorschau_fr.jpg" header="Formations à venir" text="Quelles seront les prochaines formations à venir ? Découvrez-les dans la liste des prochaines parutions !" />
+        <element type="link_teaser" link="https://www.video2brain.com/fr/liste-de-suggestions" previewimage="media/master_wunschliste_fr.jpg" header="Liste de suggestions" text="Liste de suggestions video2brain : Planifiez avec nous les titres de notre catalogue de formations." />
+        
+	</area>
+	<area area="right" header="Réseaux sociaux" subheader="">
+		<element type="link_teaser" link="http://www.facebook.com/pages/video2brain-France/100751503788?ref=s" previewimage="media/v2b_fb.png" header="video2brain sur Facebook" text="Vous êtes fan de video2brain et utilisateur de Facebook ? Alors revendiquez-le ! Faites connaissance avec d'autres personnes qui vous aideront à élargir vos connaissances grâce à video2brain." />
+        <element type="link_teaser" link="http://twitter.com/video2brainfr" previewimage="media/v2b_twitter.png" header="video2brain sur Twitter" text="Vous aimez le microblogging ? Les nouveautés sur les produits, les rendez-vous à ne pas rater : vous trouverez ici tout ce qu'il faut savoir." />
+		<element type="link_teaser" link="https://plus.google.com/107917708912055940127/posts" previewimage="media/v2b_gplus.png" header="video2brain sur Google+" text="Retrouvez dès maintenant video2brain sur Google+ ! Tutos écrits, promotions, nouveautés, etc., ne manquez pas une miette de l’actualité de video2brain." />
+		</area>
+</content>
+

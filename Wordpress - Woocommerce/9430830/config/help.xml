@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<content>
+	<area area="left" header="Aide" subheader="Rubrique d'aide">
+		<element type="small_video_teaser" file="media/hilfe.mp4" previewimage="media/help.jpg" inline="true" header="Vidéo d'aide" text="Cette vidéo vous montre comment tirer le meilleur parti de votre formation." />
+		<element type="grand_video_teaser" file="" previewimage="media/tasten.png" inline="true" header="Raccourcis clavier" text="Travaillez encore plus efficacement avec les raccourcis clavier !" />
+	</area>
+	
+	<area area="right" header="Vous avez une question ?" subheader="">
+	    <element type="link_teaser" previewimage="media/support_artikel.jpg" header="Aide" text="Sur le site de video2brain, vous trouverez dans la rubrique Aide - FAQ les réponses aux questions les plus souvent posées." link="http://www.video2brain.com/fr/aide-faq.43.htm" />
+		<element type="link_teaser" previewimage="media/support_kontakt.jpg" header="Contactez-nous" text="Notre équipe se tient à votre disposition pour toute question relative aux formations vidéo video2brain. Nous sommes également à l'écoute pour toutes suggestions, critiques, etc. N'hésitez-pas à nous contacter directement par e-mail : office@video2brain.fr" link="http://www.video2brain.com/fr/contact" />
+		</area>
+</content>
+

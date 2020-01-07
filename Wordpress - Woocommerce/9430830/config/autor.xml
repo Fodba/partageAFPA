@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<content override_swf="">
+	<area area="left" header="Christophe Aubry" subheader="Rédacteur pédagogique et formateur">
+		<element type="grand_video_teaser" file="media/Christophe_Aubry_964x542.mp4" smoothing="true" inline="true" previewimage="media/Christophe_Aubry_964x542.jpg" header="" text="" />
+	
+	</area>
+	
+	<area area="right" header="En plus des formations" subheader="Bonus video2brain">
+		<element type="link_teaser" folder="" previewimage="media/ihr_trainer.jpg" header="Formations de Christophe Aubry" text="" link="http://www.video2brain.com/fr/formateur/christophe-aubry" />
+		<element type="link_teaser" folder="" previewimage="media/video2brain_stellt_sich_vor.jpg" header="Nous nous présentons" text="" link="http://blog.video2brain.com/fr/connaissance-lequipe-internationale-video2brain-5638.htm" />
+		<element type="link_teaser" area="right" previewimage="media/Small_small_abo.jpg" header="Les abonnements video2brain" text="En apprendre toujours plus !" link="http://www.video2brain.com/fr/abonnements" />
+		</area>
+</content>

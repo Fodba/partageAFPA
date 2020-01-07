@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bookmarks>
+	<movie name='257_04_04_04.flv'>
+		<bookmark timecode='01:06' headline='Lorem ipsum1'><![CDATA[]]></bookmark>
+		<bookmark timecode='02:31' headline='Lorem ipsum2'><![CDATA[Lorem ipsum]]></bookmark>
+		<bookmark timecode='03:11' headline='Lorem ipsum3'><![CDATA[]]></bookmark>
+		<bookmark timecode='03:50' headline='Lorem ipsum4'><![CDATA[]]></bookmark>
+		<bookmark timecode='04:36' headline='Lorem ipsum5'><![CDATA[]]></bookmark>
+		<bookmark timecode='05:16' headline='Lorem ipsum6'><![CDATA[]]></bookmark>
+		<bookmark timecode='05:42' headline='Lorem ipsum7'><![CDATA[Lorem ipsum]]></bookmark>
+		<bookmark timecode='06:05' headline='Lorem ipsum8'><![CDATA[Lorem ipsum]]></bookmark>
+		<bookmark timecode='07:01' headline='Lorem ipsum9'><![CDATA[Lorem ipsum]]></bookmark>
+		<bookmark timecode='08:01' headline='Lorem ipsum10'><![CDATA[]]></bookmark>
+		<bookmark timecode='08:48' headline='Lorem ipsum11'><![CDATA[Lorem ipsum]]></bookmark>
+		<bookmark timecode='09:26' headline='Lorem ipsum12'><![CDATA[]]></bookmark>
+	</movie>
+</bookmarks>

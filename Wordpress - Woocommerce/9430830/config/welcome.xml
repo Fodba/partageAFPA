@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<content override_swf="">
+	<area area="left" header="" subheader="">
+		<element type="grand_video_teaser" file="media/647_00.mp4" smoothing="false" inline="true" previewimage="media/647_00.jpg" header="Bienvenue dans cette formation vidéo" text="Christophe Aubry est votre formateur." />
+		<element type="last_seen_video" header="Dernière vidéo visionnée" text="Reprenez la formation là où vous l'avez laissée." />
+	</area>
+	
+	<area area="right" header="Bonus" subheader="">
+		<element type="link_teaser" area="right" previewimage="media/christophe_aubry.jpg" header="Votre formateur Christophe Aubry" text="Rédacteur pédagogique et formateur" link="https://www.video2brain.com/fr/formateur/christophe-aubry" />
+		<element type="file_teaser" folder="videos" previewimage="media/tablets_smartphones.jpg" header="Toutes les vidéos pour Smartphones et tablettes" text="Vous pouvez également consulter toutes les vidéos sur votre Smartphone ou votre tablette où et quand vous le souhaitez." link="" />
+		<element type="link_teaser" folder="" previewimage="media/Small_small_abo.jpg" header="Les abonnements video2brain" text="Accès illimité à toutes les formations du catalogue !" link="http://www.video2brain.com/fr/abonnements" />
+        </area>
+</content>
